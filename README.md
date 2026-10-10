@@ -12,7 +12,6 @@
 | 3 | Физическая культура и спорт (элективная) | <img src="assets/images/my-itmo2.png" width=30> |
 | 3 | Языки программирования | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/c.svg" width=37> <img src="assets/images/linux.svg" width=40> <img src="assets/images/vscode.svg" width=37> <img src="assets/images/asm.png" width=37> |
 
-<img src="assets/images/itmo-structure.png" width=900>
 ---
 
 ## Полезные ссылки
