@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="ASM">
+  <title>ASM</title>
+  <defs>
+    <clipPath id="hexClip">
+      <polygon points="128,64 384,64 480,256 384,448 128,448 32,256"/>
+    </clipPath>
+  </defs>
+
+  <!-- main hexagon -->
+  <polygon points="128,64 384,64 480,256 384,448 128,448 32,256" fill="#3559b0"/>
+
+  <!-- subtle edge accents -->
+  <polygon points="128,64 384,64 372,70 134,70 40,256 32,256" fill="#2e4fa3" opacity="0.75"/>
+  <polygon points="32,256 40,256 134,442 372,442 384,448 128,448" fill="#2b4da1" opacity="0.8"/>
+
+  <!-- facets inside -->
+  <g clip-path="url(#hexClip)">
+    <polygon points="384,64 480,256 256,256" fill="#3e4d9e" opacity="0.92"/>
+    <polygon points="256,256 480,256 384,448 128,448" fill="#5576be" opacity="0.88"/>
+    <polygon points="384,64 256,256 128,448 372,448 468,256" fill="#4664b5" opacity="0.35"/>
+  </g>
+
+  <!-- text -->
+  <text x="256" y="322" text-anchor="middle" fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="700"
+        letter-spacing="4">ASM</text>
+</svg>
