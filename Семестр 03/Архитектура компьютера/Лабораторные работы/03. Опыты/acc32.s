@@ -1,12 +1,13 @@
 .text
-.org 0x88
-_start:
-    load_addr 0x80
+.org 0x00
+_start: ; 21 bytes
+    load_addr input_addr
+    load_acc
     beqz done
     bltz error
     store_addr number
 
-loop:
+loop: ; 50 bytes
     load_addr min
     sub max
     bgtz prepare_max
@@ -21,23 +22,27 @@ loop:
     bltz less
     bgtz greater
 
-less:
+less: ; 18 bytes
     load_addr mid
     add one
     store_addr min
     jmp loop
 
-greater:
+greater: ; 18 bytes
     load_addr mid
     sub one
     store_addr max
     jmp loop
 
-prepare_mid:
+prepare_mid: ; 15 bytes
     load_addr mid
     store_addr result
     jmp done
 
+; 122 bytes used till this place
+
+.text
+.org 0x88
 prepare_max:
     load_addr max
     store_addr result
@@ -50,7 +55,7 @@ error:
 
 done:
     load_addr result
-    store_addr 0x84
+    store_ind output_addr
     halt
 
 
@@ -62,3 +67,5 @@ one: .word 1
 mid: .word 0
 min: .word 0
 max: .word 46340
+input_addr: .word 0x80
+output_addr: .word 0x84

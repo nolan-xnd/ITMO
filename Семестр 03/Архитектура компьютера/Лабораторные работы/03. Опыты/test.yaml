@@ -20,3 +20,9 @@ reports:
       numio[0x84]: {io:0x84:dec}
     assert: |
       numio[0x84]: [] >>> [46340]
+  - name: "Memory layout"
+    slice: last
+    view: |
+      {layout:text-ranges}
+      {layout:data-ranges}
+      {memory:table}
