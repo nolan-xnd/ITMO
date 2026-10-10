@@ -1,5 +1,9 @@
 # ITMO University
-## Образовательная программа «Программная инженерия»
+
+<img src="assets/images/itmo-more-than.png" width=900>
+
+## Факультет программной инженерии и компьютерной техники
+### Образовательная программа «Системное и прикладное программное обеспечение»
 | Семестр | Предмет | Технологии и инструменты |
 | :---: | --- | --- |
 | 3 | English C2 / Английский язык C2 | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> |
