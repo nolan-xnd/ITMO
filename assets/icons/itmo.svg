@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="ITMO symbol">
+  <rect width="256" height="256" fill="#000"/>
+  <path fill="#fff" d="M56 78h32v117l49-117h63v118h-32V79l-47 117H56z"/>
+  <circle cx="184.5" cy="51.5" r="15.5" fill="#fff"/>
+</svg>
