@@ -14,7 +14,7 @@ config:
     themeVariables:
         pie1: '#0091FF'
         pie2: '#A50AFF'
-        pie4: '#22B217'
+        pie4: '#35c92a'
     pieOpacity: 1
 ---
 pie 
