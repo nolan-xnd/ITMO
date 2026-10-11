@@ -6,7 +6,7 @@
 ### Образовательная программа «Системное и прикладное программное обеспечение»
 | Семестр | Предмет | Технологии и инструменты |
 | :---: | --- | --- |
-| 3 | English C2 / Английский язык C2 | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> |
+| 3 | [English C2 / Английский язык C2](./Семестр&03/English&C2&—&Английский&язык&C2) | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> |
 | 3 | Архитектура компьютера | <img src="assets/images/wrench.svg" width=100> &thinsp; <img src="assets/images/slap.svg" width=80> &thinsp; <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> <img src="assets/images/vscode.svg" width=35> <img src="assets/images/asm.png" width=37> |
 | 3 | Введение в технологическое предпринимательство | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> |
 | 3 | Веб-программирование | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> <img src="assets/images/html.svg" width=30> <img src="assets/images/css.svg" width=27> <img src="assets/images/js.svg" width=35>  <img src="assets/images/vscode.svg" width=35>  <img src="assets/images/tuxedo-lms.svg" width=100>|
