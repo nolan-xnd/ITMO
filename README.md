@@ -11,7 +11,7 @@
 | 3 | [Введение в технологическое предпринимательство](./Семестр%2003/Введение%20в%20технологическое%20предпринимательство/) | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> |
 | 3 | [Веб-программирование](./Семестр%2003/Веб%2Dпрограммирование/) | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/google-sheets.svg" width=37> <img src="assets/images/html.svg" width=30> <img src="assets/images/css.svg" width=27> <img src="assets/images/js.svg" width=35>  <img src="assets/images/vscode.svg" width=35>  <img src="assets/images/tuxedo-lms.svg" width=100> |
 | 3 | [Математический анализ](./Семестр%2003/Математический%20анализ/) | <img src="assets/images/google-sheets.svg" width=37> |
-| 3 | [Теория вероятностей](./Семестр%2003/Теория%20вероятностей/) | <img src="assets/images/itmo.svg" width=37> |
+| 3 | [Теория вероятностей](./Семестр%2003/Теория%20вероятностей/) | <img src="assets/images/itmo-bars.svg" width=37> |
 | 3 | [Физика](./Семестр%2003/Физика/) | <img src="assets/images/google-sheets.svg" width=37> <img src="assets/images/physics.svg" width=37> <img src="assets/images/miro.svg" width=37> <img src="assets/images/latex.svg" width=37> |
 | 3 | [Физическая культура и спорт (элективная)](./Семестр%2003/Физическая%20культура%20и%20спорт%20%28элективная%29/) | <img src="assets/images/my-itmo2.png" width=30> |
 | 3 | [Языки программирования](./Семестр%2003/Языки%20программирования/) | <img src="assets/images/google-docs.svg" width=30> <img src="assets/images/c.svg" width=37> <img src="assets/images/linux.svg" width=40> <img src="assets/images/vscode.svg" width=37> <img src="assets/images/asm.png" width=37> |
