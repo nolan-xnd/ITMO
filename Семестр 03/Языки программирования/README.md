@@ -12,9 +12,9 @@
 config:
     theme: base
     themeVariables:
-        pie1: '#0091FF'
-        pie2: '#A50AFF'
-        pie4: '#35c92a'
+        pie1: '#0091ff'
+        pie2: '#a50aff'
+        pie3: '#22b217'
     pieOpacity: 1
 ---
 pie 
