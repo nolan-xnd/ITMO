@@ -15,7 +15,7 @@ config:
         pie1: '#0091ff'
         pie2: '#a50aff'
         pie3: '#22b217'
-    pieOpacity: 0.5
+    pieOpacity: 0.1
 ---
 pie 
     title Распределение учебной нагрузки — 108 часов
