@@ -11,8 +11,8 @@
 config:
     theme: base
     themeVariables:
-        pie1: '#0091ff'
-        pie2: '#f7b500'
+        pie1: '#f7b500'
+        pie2: '#22b217'
 ---
 pie 
     title  Распределение учебной нагрузки — 108 часов
