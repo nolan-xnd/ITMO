@@ -20,4 +20,4 @@
 | Ссылка | Описание |
 | --- | --- |
 | [BearIBear/BCOMP](https://github.com/BearIBear/BasicComputerExtExt) | Улучшенная синяя БЭВМ (поддержка macOS) |
-| [1shayd1/ITMO](https://github.com/1shayd1/ITMO) | Репозитории талантливых студентов |
+| [1shayd1/ITMO](https://github.com/1shayd1/ITMO)<br>[xelangel69/Labs-homeworks-and-etc](https://github.com/xelangel69/Labs-homeworks-and-etc) | Репозитории талантливых студентов |
