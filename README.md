@@ -70,8 +70,7 @@
 | [BearIBear/BCOMP](https://github.com/BearIBear/BasicComputerExtExt) | Улучшенная синяя БЭВМ (поддержка macOS) |
 | [VVl74](https://github.com/VVl74?tab=repositories)<br>[1shayd1/ITMO](https://github.com/1shayd1/ITMO)<br>[xelangel69/Labs-homeworks-and-etc](https://github.com/xelangel69/Labs-homeworks-and-etc) | Репозитории других студентов |
 | [docs.google.com/spreadsheets/teachers](https://docs.google.com/spreadsheets/d/1TFTOKxqml1agwgo6Vp0Ql6Rgj9f9ciyOqQPF8VvUkJQ/edit?gid=591156939#gid=591156939)<br>[docs.google.com/spreadsheets/teachers2](https://docs.google.com/spreadsheets/d/1wncYkv1fR64b7Y3Kk-fs3JnK4EUCwGZ7Bn7tJG5avz0/edit?gid=0#gid=0) | Таблицы с отзывами о лекторах и практиках (для выборности) |
-| [205826.github.io](https://205826.github.io/) | Сборник полезных ссылок |
-| [telegra.ph/useful-links](https://telegra.ph/Poleznye-ssylki-dlya-pervokursnikov-VT-08-26) | Второй сборник полезных ссылок |
+| [205826.github.io](https://205826.github.io/)<br>[telegra.ph/useful-links](https://telegra.ph/Poleznye-ssylki-dlya-pervokursnikov-VT-08-26) | Сборники полезных ссылок |
 | [notesitmo.github.io/cse-notes](https://notesitmo.github.io/cse-notes/first-course/firstcourse.html) | Конспекты для лабораторных работ |
 | [vk.ru/kb_chess](https://vk.ru/kb_chess) | Объявления о шахматных онлайн-турнирах |
 
