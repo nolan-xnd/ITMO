@@ -39,8 +39,7 @@ less: ; 18 bytes
     store_addr min
     jmp loop
 
-; 121 bytes out of 128 used till this place
-; 7 bytes free before MMIO
+; 121 bytes out of 128 used till this place. 7 bytes free before MMIO
 
 .text
 .org 0x88
