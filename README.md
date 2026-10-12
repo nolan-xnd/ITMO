@@ -80,7 +80,7 @@
 | [t.me/kb_esports_tg](https://t.me/kb_esports_tg) | Объявления о спартакиадах |
 | [t.me/itmolnia](https://t.me/itmolnia) | Новостной канал для студентов |
 | [t.me/vitmozasipashki](https://t.me/vitmozasipashki) | Засыпашки ИТМО (архив спящих студентов) |
-| [t.me/itmoushen](https://t.me/itmoushen) | Подслушка ИТМО (андеграунд обсужденя) | 
+| [t.me/itmoushen](https://t.me/itmoushen) | Подслушка ИТМО (андеграунд обсуждения) | 
 
 ---
 *Проект вдохновлён [репозиторием Максима Барсукова](https://github.com/maxbarsukov/itmo)*
