@@ -1,5 +1,16 @@
+.data
+error_value: .word -1
+number: .word 0
+one: .word 1
+mid: .word 0
+min: .word 0
+max: .word 46340
+input_addr: .word 0x80
+output_addr: .word 0x84
+
 .text
-.org 0x00
+.org 0x20
+
 _start: ; 21 bytes
     load_addr input_addr
     load_acc
@@ -28,44 +39,28 @@ less: ; 18 bytes
     store_addr min
     jmp loop
 
-greater: ; 18 bytes
+; 121 bytes out of 128 used till this place. 7 bytes free before MMIO
+
+.text
+.org 0x88
+
+greater:
     load_addr mid
     sub one
     store_addr max
     jmp loop
 
-prepare_mid: ; 15 bytes
+prepare_mid:
     load_addr mid
-    store_addr result
     jmp done
 
-; 122 bytes used till this place
-
-.text
-.org 0x88
 prepare_max:
     load_addr max
-    store_addr result
     jmp done
 
 error:
     load_addr error_value
-    store_addr result
-    jmp done
 
 done:
-    load_addr result
     store_ind output_addr
     halt
-
-
-.data
-error_value: .word -1
-result: .word 0
-number: .word 0
-one: .word 1
-mid: .word 0
-min: .word 0
-max: .word 46340
-input_addr: .word 0x80
-output_addr: .word 0x84

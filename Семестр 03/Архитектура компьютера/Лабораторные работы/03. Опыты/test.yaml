@@ -9,11 +9,6 @@ memory_mapped_io:
 
 # Reports configuration
 reports:
-  - name: "Execution trace"
-    slice: all
-    view: |
-      {pc}: {instruction:next} {pc:label}
-
   - name: "Result verification"
     slice: last
     view: |
@@ -23,6 +18,4 @@ reports:
   - name: "Memory layout"
     slice: last
     view: |
-      {layout:text-ranges}
-      {layout:data-ranges}
       {memory:table}
