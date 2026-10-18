@@ -1,7 +1,7 @@
 # [ITMO University](https://itmo.ru/)
 
 <div align="center">
-<img src="assets/images/itmo-more-than-black.png" width=900>
+<a href="https://itmo.ru"><img src="assets/images/itmo-more-than-black.png" width=900></a>
 </div>
 
 # Оглавление
@@ -42,7 +42,7 @@
 | 3 | [Языки программирования](./Семестр%2003/Языки%20программирования/) | <a href="https://docs.google.com/document/"><img src="assets/images/google-docs.svg" width=30></a> <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)"><img src="assets/images/c.svg" width=37></a> <a href="https://www.linux.org/"><img src="assets/images/linux.svg" width=40></a> <a href="https://code.visualstudio.com/"><img src="assets/images/vscode.svg" width=35></a> <a href="https://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%B0%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%D0%B0"><img src="assets/images/asm2.png" width=37></a> <a href="https://about.gitlab.com/"><img src="assets/images/gitlab.svg" width=40></a> |
 
 <div align="center">
-<img src="assets/images/itmo-black-logo.png" width=300>
+<a href="https://itmo.ru"><img src="assets/images/itmo-black-logo.png" width=300></a>
 </div>
 
 # Полезные ссылки <a name="links"></a>
