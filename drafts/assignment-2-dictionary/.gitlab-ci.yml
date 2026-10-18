@@ -1,0 +1,17 @@
+image: generic-c
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  timeout: 5m
+  script:
+    - make
+
+test:
+  stage: test
+  timeout: 5m
+  script:
+    - make test
