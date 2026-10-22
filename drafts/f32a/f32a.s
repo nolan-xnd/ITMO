@@ -3,7 +3,7 @@
 buf: .byte '________________________________'
 
 .text
-.org 0x100
+.org 0x88
 _start:
     1 a!
 
@@ -52,11 +52,10 @@ output:
     !p 0x84
     output ;
 
-finish:
-    halt
-
 overflow:
     drop
     0xCCCCCCCC
     !p 0x84
+
+finish:
     halt

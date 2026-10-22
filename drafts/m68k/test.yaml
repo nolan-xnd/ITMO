@@ -1,0 +1,25 @@
+
+limit: 10000
+memory_size: 8192
+
+memory_mapped_io:
+  0x80: [65, 65, 65, 66, 66, 66, 66, 67, 67, 67, 67, 10]
+  0x84: []
+
+reports:
+  - name: Execution trace
+    slice: all
+    view: |
+      {pc}: {instruction:next} {pc:label}
+
+  - name: Result verification
+    slice: last
+    view: |
+      Output: {io:0x84:sym}
+      Output bytes: {io:0x84:dec}
+      Instructions: {sim:instruction-count}
+
+  - name: Memory layout
+    slice: last
+    view: |
+      {memory:table}
