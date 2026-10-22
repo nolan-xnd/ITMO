@@ -1,0 +1,24 @@
+
+limit: 1000
+memory_size: 8192
+
+memory_mapped_io:
+  0x80: ["HELLO\n"]
+  0x84: []
+
+reports:
+  - name: "Result verification"
+    slice: last
+    view: |
+      numio[0x84]: {io:0x84:dec}
+
+  - name: "Memory layout"
+    slice: last
+    view: |
+      {memory:table}
+
+  - name: "Stack usage"
+    slice: last
+    view: |
+      Data stack max: {f32a:data-stack-max}
+      Return stack max: {f32a:return-stack-max}
